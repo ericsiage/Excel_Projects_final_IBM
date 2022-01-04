@@ -1,2 +1,3 @@
 # Excel_Projects_final_IBM
-Extraccion, limpieza y manipulacion de datos
+Archivo 1: Extraccion, limpieza y manipulacion de datos
+Archivo 2: Analisis, filtering and sortering, Funciones basicas, Creacion de tablas dinamicas.
